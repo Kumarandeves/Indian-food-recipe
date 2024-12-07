@@ -59,7 +59,7 @@ indian-nonveg-recipes/
 - **Cooking Time:** 1 hour
 - **Ingredients:** Basmati rice, mutton, yogurt, saffron, spices.
 
-### 3. Fish Curry 🐟
+### 3. Fish Curry 🐟 
 - **Description:** A tangy and spicy curry made with fresh fish and tamarind.
 - **Cooking Time:** 30 minutes
 - **Ingredients:** Fish, tamarind, coconut milk, spices.
